@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1727117212 source:c:\users\tomil\onedrive\documentos\facultad\eda\prueba2\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727118059 c:\users\tomil\onedrive\documentos\facultad\eda\prueba2\p2-grupo17\abb.h
+	"Prestador.h"
+
+1727118086 c:\users\tomil\onedrive\documentos\facultad\eda\prueba2\p2-grupo17\prestador.h
+	<string.h>
+
+1726605439 c:\users\tomil\onedrive\documentos\facultad\eda\prueba2\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1726761276 c:\users\tomil\onedrive\documentos\facultad\eda\prueba2\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
+1727129269 source:c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727128465 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\p2-grupo17\abb.h
+	"Prestador.h"
+
+1727118086 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\p2-grupo17\prestador.h
+	<string.h>
+
+1727128710 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727128465 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
+1727179855 source:c:\users\padul\downloads\prueba1\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727183843 c:\users\padul\downloads\prueba1\p2-grupo17\abb.h
+	"Prestador.h"
+
+1727141298 c:\users\padul\downloads\prueba1\p2-grupo17\prestador.h
+	<string.h>
+
+1727184614 c:\users\padul\downloads\prueba1\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727183007 c:\users\padul\downloads\prueba1\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
+1727201418 source:c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\prueba1\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727203486 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\prueba1\p2-grupo17\abb.h
+	<conio.h>
+	"Prestador.h"
+
+1727187017 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\prueba1\p2-grupo17\prestador.h
+	<string.h>
+
+1727187017 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\prueba1\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727187730 c:\users\tomil\onedrive\documentos\facultad\eda\prueba1\prueba1\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
+1727325571 source:c:\users\ryzen\downloads\prueba1\prueba1\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727324552 c:\users\ryzen\downloads\prueba1\prueba1\p2-grupo17\abb.h
+	<conio.h>
+	"Prestador.h"
+
+1727321376 c:\users\ryzen\downloads\prueba1\prueba1\p2-grupo17\prestador.h
+	<string.h>
+
+1727322824 c:\users\ryzen\downloads\prueba1\prueba1\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727358662 c:\users\ryzen\downloads\prueba1\prueba1\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
+1727890354 source:c:\users\tomil\downloads\prueba1\prueba1\prueba1\p2-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ABB.h"
+	"LSO.h"
+	"LSOBB.h"
+
+1727891269 c:\users\tomil\downloads\prueba1\prueba1\prueba1\p2-grupo17\abb.h
+	<conio.h>
+	"Prestador.h"
+
+1727321376 c:\users\tomil\downloads\prueba1\prueba1\prueba1\p2-grupo17\prestador.h
+	<string.h>
+
+1727893065 c:\users\tomil\downloads\prueba1\prueba1\prueba1\p2-grupo17\lso.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727822034 c:\users\tomil\downloads\prueba1\prueba1\prueba1\p2-grupo17\lsobb.h
+	"Prestador.h"
+	<math.h>
+
